@@ -1,0 +1,13 @@
+D:\Projects\ChatJoin_TEST\ChatJoin_TEST\bin\Debug\ChatJoin_TEST.exe.config
+D:\Projects\ChatJoin_TEST\ChatJoin_TEST\bin\Debug\ChatJoin_TEST.exe
+D:\Projects\ChatJoin_TEST\ChatJoin_TEST\bin\Debug\ChatJoin_TEST.pdb
+D:\Projects\ChatJoin_TEST\ChatJoin_TEST\bin\Debug\PLLibrary.dll
+D:\Projects\ChatJoin_TEST\ChatJoin_TEST\bin\Debug\PLLibrary.pdb
+D:\Projects\ChatJoin_TEST\ChatJoin_TEST\obj\Debug\ChatJoin_TEST.csproj.AssemblyReference.cache
+D:\Projects\ChatJoin_TEST\ChatJoin_TEST\obj\Debug\ChatJoin_TEST.Form1.resources
+D:\Projects\ChatJoin_TEST\ChatJoin_TEST\obj\Debug\ChatJoin_TEST.Properties.Resources.resources
+D:\Projects\ChatJoin_TEST\ChatJoin_TEST\obj\Debug\ChatJoin_TEST.csproj.GenerateResource.cache
+D:\Projects\ChatJoin_TEST\ChatJoin_TEST\obj\Debug\ChatJoin_TEST.csproj.CoreCompileInputs.cache
+D:\Projects\ChatJoin_TEST\ChatJoin_TEST\obj\Debug\ChatJoin.16C920F6.Up2Date
+D:\Projects\ChatJoin_TEST\ChatJoin_TEST\obj\Debug\ChatJoin_TEST.exe
+D:\Projects\ChatJoin_TEST\ChatJoin_TEST\obj\Debug\ChatJoin_TEST.pdb
